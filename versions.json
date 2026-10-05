@@ -1,0 +1,40 @@
+{
+  "current": "0.2",
+  "versions": [
+    {
+      "id": "0.2",
+      "date": "2026-10-03",
+      "title": "The Oscillator",
+      "notes": [
+        "Wave 10: the Oscillator.",
+        "The sin and cos hammers.",
+        "The Forge Table."
+      ]
+    },
+    {
+      "id": "0.1",
+      "date": "2026-10-02",
+      "title": "Powerups and the Proof",
+      "notes": [
+        "Theorem cards after waves 5 and 8: pick one, or skip for +1 heart.",
+        "New powerups: Pascal's Triangle, Gauss's Sum, Perfect Numbers, Zeno's Paradox, Fibonacci Well.",
+        "Legendary reveal, research orbs and reroll.",
+        "Controls list and admin access (bottom right).",
+        "Hold Tab to see your powerups.",
+        "You start with only f(x) = 0."
+      ],
+      "ref": "v0.1"
+    },
+    {
+      "id": "0",
+      "date": "2026-09-29",
+      "ref": "v0",
+      "title": "First playable",
+      "notes": [
+        "Movement, f(x) = 0, sin x and x².",
+        "Waves of numbers.",
+        "Wave 5: the imaginary unit i."
+      ]
+    }
+  ]
+}
