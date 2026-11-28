@@ -1,0 +1,143 @@
+{
+ "current": "0.3",
+ "news": {
+  "id": "2026-11-26-four-cards",
+  "title": "What's New",
+  "notes": [
+   "*4 new cards: Chain Rule, Square Root, Upper Bound, Prime Factorization.",
+   "Harmonic Decay.",
+   "Co-op leaderboard.",
+   "Global chat.",
+   "Co-op: the i on wave 5."
+  ]
+ },
+ "versions": [
+  {
+   "id": "0.3",
+   "date": "2026-11-21",
+   "title": "The Big Update",
+   "notes": [
+    "Main menu: Shop, Wardrobe, Leaderboard, Codes, Settings.",
+    "Coins, crystals and gems.",
+    "Cosmetics.",
+    "Sound effects.",
+    "Upgrade tree (B).",
+    "Hearts.",
+    "Abilities on F, C and V.",
+    "New powerups and enemies.",
+    "Mythic rarity: Graviton.",
+    "Quadratic Guns.",
+    "Quests.",
+    "Public leaderboard."
+   ],
+   "later": [
+    {
+     "date": "2026-11-22",
+     "notes": [
+      "Wave 15 boss: The Identity."
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "notes": [
+      "The Index.",
+      "New main menu.",
+      "Themed waves.",
+      "Resume runs.",
+      "Run inspector.",
+      "Tutorial.",
+      "Turkey Hat."
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "notes": [
+      "Online co-op.",
+      "Music.",
+      "Credits.",
+      "Save & quit.",
+      "Upgraded hats.",
+      "Fixes and tweaks."
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "notes": [
+      "The i: −i.",
+      "Boss music.",
+      "Global chat.",
+      "Co-op leaderboard.",
+      "Co-op: the i on wave 5.",
+      "Shop prices and rewards.",
+      "Harmonic Decay.",
+      "Fixes and tweaks."
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "notes": [
+      "Chain Rule.",
+      "Square Root.",
+      "Upper Bound.",
+      "Prime Factorization.",
+      "Live card demos.",
+      "New menu layout."
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "notes": [
+      "Flags: f(x), Imaginary, Mandelbrot, Euler's Identity, Aleph-Null.",
+      "Mythic cosmetics.",
+      "New heads.",
+      "Binary trail.",
+      "Upgraded Mortarboard.",
+      "Card rarity rework.",
+      "Boss reward banner.",
+      "Animated Pi flag.",
+      "New flags: Five Hearts, Root Two, Lucky, Treasure, Wilted Rose.",
+      "Laurels for the Global top 3.",
+      "New hit effects: Tally Marks, Sine Shock, Balloons, Tombstone, Q.E.D., Lightning, Sky Beam, Divide by Zero.",
+      "Fixes and tweaks."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "0.2",
+   "date": "2026-10-03",
+   "title": "The Oscillator",
+   "notes": [
+    "Wave 10: the Oscillator.",
+    "The sin and cos hammers.",
+    "The Forge Table."
+   ],
+   "ref": "v0.2"
+  },
+  {
+   "id": "0.1",
+   "date": "2026-10-02",
+   "title": "Powerups and the Proof",
+   "notes": [
+    "Theorem cards after waves 5 and 8: pick one, or skip for +1 heart.",
+    "New powerups: Pascal's Triangle, Gauss's Sum, Perfect Numbers, Zeno's Paradox, Fibonacci Well.",
+    "Legendary reveal, research orbs and reroll.",
+    "Controls list and admin access (bottom right).",
+    "Hold Tab to see your powerups.",
+    "You start with only f(x) = 0."
+   ],
+   "ref": "v0.1"
+  },
+  {
+   "id": "0",
+   "date": "2026-09-29",
+   "ref": "v0",
+   "title": "First playable",
+   "notes": [
+    "Movement, f(x) = 0, sin x and x².",
+    "Waves of numbers.",
+    "Wave 5: the imaginary unit i."
+   ]
+  }
+ ]
+}
